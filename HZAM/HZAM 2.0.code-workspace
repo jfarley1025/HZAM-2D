@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../1D"
+		}
+	],
+	"settings": {
+		"julia.environmentPath": "d:\\Documents\\UBC 2022-2023\\HZAM-J\\HZAM 2.0\\HZAM"
+	}
+}
